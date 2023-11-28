@@ -1,0 +1,74 @@
+HRForge
+un système complet de gestion des ressources humaines
+
+Bien sûr, un système de gestion des ressources humaines (RH) est une solution complète qui vise à automatiser et faciliter la gestion
+ des aspects liés au personnel au sein d'une organisation, avec des fonctionnalités telles que la gestion des employés, 
+des évaluations de performance, la gestion des congés,gestion des Salaires et des Avantages , et des rapports RH.
+
+Gestion des Employés :
+
+Ajout, modification et suppression des informations des employés.
+Stockage des données personnelles, coordonnées, compétences, expériences, etc.
+Suivi de l'historique des employés au fil du temps.
+
+Gestion des Congés et des Absences :
+
+Soumission en ligne des demandes de congés par les employés.
+Approbation ou rejet des demandes par les responsables.
+Suivi des jours de congé disponibles et des soldes de congé.
+
+Gestion des Performances :
+
+Planification et suivi des évaluations de performance.
+Établissement d'objectifs individuels et collectifs.
+Stockage des résultats des évaluations.
+
+Gestion de la Formation :
+
+Suivi des formations suivies par les employés.
+Planification des sessions de formation.
+Évaluation des compétences acquises lors des formations.
+
+Gestion des Salaires et des Avantages :
+
+Calcul automatisé des salaires en fonction des heures travaillées.
+Gestion des avantages sociaux tels que l'assurance maladie, les congés payés, etc.
+Génération de fiches de paie électroniques.
+Recrutement et Gestion des Candidatures :
+
+Publication des offres d'emploi.
+
+Soumission en ligne des candidatures.
+Suivi du processus de recrutement, de l'entretien à l'embauche.
+Gestion du Temps et des Présences :
+
+Enregistrement du temps de travail des employés.
+
+Suivi des heures supplémentaires.
+Gestion des présences/absences.
+
+Tableau de Bord RH :
+
+Vue d'ensemble des indicateurs clés de performance RH.
+Graphiques et rapports sur la composition de l'équipe, la rotation du personnel, etc.
+
+
+Communication Interne :
+
+Messagerie interne pour la communication entre les employés et les départements.
+Notifications automatisées pour les événements importants (anniversaires, évaluations, etc.).
+
+
+Sécurité et Confidentialité :
+
+Gestion des droits d'accès pour assurer la confidentialité des données.
+Journalisation des actions pour le suivi de l'activité.
+
+
+Intégration avec d'autres Systèmes :
+
+Intégration avec d'autres systèmes de l'entreprise tels que la comptabilité, la gestion de projet, etc.
+Utilisation d'API pour connecter le système RH à des services externes.
+L'objectif principal de ce système est de simplifier les processus RH, d'automatiser les tâches
+ répétitives et de fournir des informations précises et opportunes pour prendre des décisions éclairées 
+ en matière de gestion des ressources humaines.
